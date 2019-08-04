@@ -86,7 +86,7 @@ under the License.
     <repository>
       <id>apache.snapshots</id>
       <name>Apache Snapshot Repository</name>
-      <url>https://repository.apache.org/content/groups/snapshots</url>
+      <url>http://repository.apache.org/content/groups/snapshots</url>
       <releases>
         <enabled>false</enabled>
       </releases>
@@ -97,7 +97,7 @@ under the License.
     <pluginRepository>
       <id>apache.snapshots.plugins</id>
       <name>Apache Snapshot Plugin Repository</name>
-      <url>https://repository.apache.org/content/groups/snapshots</url>
+      <url>http://repository.apache.org/content/groups/snapshots</url>
       <snapshots>
         <enabled>true</enabled>
         <updatePolicy>always</updatePolicy>
